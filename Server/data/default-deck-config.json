@@ -1,0 +1,236 @@
+{
+  "filas": 2,
+  "columnas": 6,
+  "botones": [
+    {
+      "id": "toggle-recording",
+      "label": "Record",
+      "icon": "/icons/ic_recording.png",
+      "url": "obs/toggle-record",
+      "toggle": true,
+      "state": false,
+      "color": "red"
+    },
+    {
+      "id": "pause-record",
+      "label": "Pause",
+      "icon": "/icons/ic_pause.png",
+      "url": "obs/pause-record",
+      "toggle": true,
+      "state": false,
+      "color": "yellow"
+    },
+    {
+      "id": "toggle-streaming",
+      "label": "Stream",
+      "icon": "/icons/ic_stream.png",
+      "url": "obs/toggle-stream",
+      "toggle": true,
+      "state": false
+    },
+    {
+      "id": "toggle-overlay",
+      "label": "Start overlay",
+      "icon": "/icons/ic_overlay.png",
+      "url": "obs/toggle-overlay/Overlay",
+      "toggle": false,
+      "state": false
+    },
+    {
+      "id": "change-scene",
+      "label": "Change Scene",
+      "icon": "/icons/ic_scene.png",
+      "url": "obs/scene/Escena1",
+      "toggle": false,
+      "state": false
+    },
+    {
+      "id": "fade-transition",
+      "label": "Fade Transition",
+      "icon": "/icons/ic_transition.png",
+      "url": "obs/transition/Fade",
+      "toggle": true,
+      "state": false
+    },
+    {
+      "id": "amazon",
+      "label": "Amazon",
+      "icon": "/icons/ic_amazon.png",
+      "url": "https://www.amazon.com"
+    },
+    {
+      "id": "google",
+      "label": "Google",
+      "icon": "/icons/ic_google.png",
+      "url": "https://www.google.com"
+    },
+    {
+      "id": "steam",
+      "label": "Steam",
+      "icon": "/icons/ic_steam.png",
+      "url": "E:\\Program Files (x86)\\Steam\\steam.exe"
+    },
+    {
+      "id": "toggle-source",
+      "label": "Start source",
+      "icon": "/icons/ic_source.png",
+      "url": "obs/toggle-source/Escena1/tesis",
+      "toggle": false,
+      "state": false
+    },
+    {
+      "id": "steam",
+      "label": "Steam",
+      "icon": "/icons/ic_steam.png",
+      "url": "E:\\Program Files (x86)\\Steam\\steam.exe"
+    },
+    {
+      "id": "youtube",
+      "label": "Youtube",
+      "icon": "/icons/ic_youtube.png",
+      "url": "https://www.youtube.com"
+    },
+    {
+      "id": null,
+      "label": "",
+      "url": "",
+      "icon": "/icons/ic_placeholder.png",
+      "toggle": false,
+      "state": false,
+      "color": null
+    },
+    {
+      "id": null,
+      "label": "",
+      "url": "",
+      "icon": "/icons/ic_placeholder.png",
+      "toggle": false,
+      "state": false,
+      "color": null
+    },
+    {
+      "id": null,
+      "label": "",
+      "url": "",
+      "icon": "/icons/ic_placeholder.png",
+      "toggle": false,
+      "state": false,
+      "color": null
+    },
+    {
+      "id": "",
+      "label": "",
+      "icon": "",
+      "url": ""
+    },
+    {
+      "id": "",
+      "label": "",
+      "icon": "",
+      "url": ""
+    },
+    {
+      "id": "",
+      "label": "",
+      "icon": "",
+      "url": ""
+    },
+    {
+      "id": "",
+      "label": "",
+      "icon": "",
+      "url": ""
+    },
+    {
+      "id": "",
+      "label": "",
+      "icon": "",
+      "url": "",
+      "color": ""
+    },
+    {
+      "id": "",
+      "label": "",
+      "icon": "",
+      "url": "",
+      "color": ""
+    },
+    {
+      "id": "",
+      "label": "",
+      "icon": "",
+      "url": "",
+      "color": ""
+    },
+    {
+      "id": "",
+      "label": "",
+      "icon": "",
+      "url": "",
+      "color": ""
+    },
+    {
+      "id": "",
+      "label": "",
+      "icon": "",
+      "url": "",
+      "color": ""
+    },
+    {
+      "id": "",
+      "label": "",
+      "icon": "",
+      "url": "",
+      "color": ""
+    },
+    {
+      "id": "",
+      "label": "",
+      "icon": "",
+      "url": "",
+      "color": ""
+    },
+    {
+      "id": "",
+      "label": "",
+      "icon": "",
+      "url": "",
+      "color": ""
+    },
+    {
+      "id": "",
+      "label": "",
+      "icon": "",
+      "url": "",
+      "color": ""
+    },
+    {
+      "id": "",
+      "label": "",
+      "icon": "",
+      "url": "",
+      "color": ""
+    },
+    {
+      "id": "",
+      "label": "",
+      "icon": "",
+      "url": "",
+      "color": ""
+    },
+    {
+      "id": "",
+      "label": "",
+      "icon": "",
+      "url": "",
+      "color": ""
+    },
+    {
+      "id": "",
+      "label": "",
+      "icon": "",
+      "url": "",
+      "color": ""
+    }
+  ]
+}

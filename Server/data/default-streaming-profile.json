@@ -1,0 +1,230 @@
+{
+  "filas": 2,
+  "columnas": 6,
+  "botones": [
+    {
+      "id": "amazon",
+      "label": "Amazon",
+      "icon": "/icons/ic_amazon.png",
+      "url": "https://www.amazon.com"
+    },
+    {
+      "id": "amazon",
+      "label": "Amazon",
+      "icon": "/icons/ic_amazon.png",
+      "url": "https://www.amazon.com"
+    },
+    {
+      "id": "",
+      "label": "",
+      "icon": "",
+      "url": "",
+      "color": ""
+    },
+    {
+      "id": "",
+      "label": "",
+      "icon": "",
+      "url": "",
+      "color": ""
+    },
+    {
+      "id": "",
+      "label": "",
+      "icon": "",
+      "url": "",
+      "color": ""
+    },
+    {
+      "id": "",
+      "label": "",
+      "icon": "",
+      "url": "",
+      "color": ""
+    },
+    {
+      "id": "",
+      "label": "",
+      "icon": "",
+      "url": "",
+      "color": ""
+    },
+    {
+      "id": "",
+      "label": "",
+      "icon": "",
+      "url": "",
+      "color": ""
+    },
+    {
+      "id": "",
+      "label": "",
+      "icon": "",
+      "url": "",
+      "color": ""
+    },
+    {
+      "id": "",
+      "label": "",
+      "icon": "",
+      "url": "",
+      "color": ""
+    },
+    {
+      "id": "",
+      "label": "",
+      "icon": "",
+      "url": "",
+      "color": ""
+    },
+    {
+      "id": "",
+      "label": "",
+      "icon": "",
+      "url": "",
+      "color": ""
+    },
+    {
+      "id": null,
+      "label": "",
+      "url": "",
+      "icon": "/icons/ic_placeholder.png",
+      "toggle": false,
+      "state": false,
+      "color": null
+    },
+    {
+      "id": null,
+      "label": "",
+      "url": "",
+      "icon": "/icons/ic_placeholder.png",
+      "toggle": false,
+      "state": false,
+      "color": null
+    },
+    {
+      "id": null,
+      "label": "",
+      "url": "",
+      "icon": "/icons/ic_placeholder.png",
+      "toggle": false,
+      "state": false,
+      "color": null
+    },
+    {
+      "id": "",
+      "label": "",
+      "icon": "",
+      "url": ""
+    },
+    {
+      "id": "",
+      "label": "",
+      "icon": "",
+      "url": ""
+    },
+    {
+      "id": "",
+      "label": "",
+      "icon": "",
+      "url": ""
+    },
+    {
+      "id": "",
+      "label": "",
+      "icon": "",
+      "url": ""
+    },
+    {
+      "id": "",
+      "label": "",
+      "icon": "",
+      "url": "",
+      "color": ""
+    },
+    {
+      "id": "",
+      "label": "",
+      "icon": "",
+      "url": "",
+      "color": ""
+    },
+    {
+      "id": "",
+      "label": "",
+      "icon": "",
+      "url": "",
+      "color": ""
+    },
+    {
+      "id": "",
+      "label": "",
+      "icon": "",
+      "url": "",
+      "color": ""
+    },
+    {
+      "id": "",
+      "label": "",
+      "icon": "",
+      "url": "",
+      "color": ""
+    },
+    {
+      "id": "",
+      "label": "",
+      "icon": "",
+      "url": "",
+      "color": ""
+    },
+    {
+      "id": "",
+      "label": "",
+      "icon": "",
+      "url": "",
+      "color": ""
+    },
+    {
+      "id": "",
+      "label": "",
+      "icon": "",
+      "url": "",
+      "color": ""
+    },
+    {
+      "id": "",
+      "label": "",
+      "icon": "",
+      "url": "",
+      "color": ""
+    },
+    {
+      "id": "",
+      "label": "",
+      "icon": "",
+      "url": "",
+      "color": ""
+    },
+    {
+      "id": "",
+      "label": "",
+      "icon": "",
+      "url": "",
+      "color": ""
+    },
+    {
+      "id": "",
+      "label": "",
+      "icon": "",
+      "url": "",
+      "color": ""
+    },
+    {
+      "id": "",
+      "label": "",
+      "icon": "",
+      "url": "",
+      "color": ""
+    }
+  ]
+}

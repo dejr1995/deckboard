@@ -1,0 +1,144 @@
+[
+  {
+    "id": "youtube",
+    "label": "Youtube",
+    "icon": "/icons/ic_youtube.png",
+    "url": "https://www.youtube.com"
+  },
+  {
+    "id": "facebook",
+    "label": "Facebook",
+    "icon": "/icons/ic_facebook.png",
+    "url": "https://www.facebook.com"
+  },
+  {
+    "id": "mercadolibre",
+    "label": "MercadoLibre",
+    "icon": "/icons/ic_mercado.png",
+    "url": "https://www.mercadolibre.com"
+  },
+  {
+    "id": "amazon",
+    "label": "Amazon",
+    "icon": "/icons/ic_amazon.png",
+    "url": "https://www.amazon.com"
+  },
+  {
+    "id": "google",
+    "label": "Google",
+    "icon": "/icons/ic_google.png",
+    "url": "https://www.google.com"
+  },
+  {
+    "id": "aliexpress",
+    "label": "AliExpress",
+    "icon": "/icons/ic_aliexpress.png",
+    "url": "https://www.aliexpress.com"
+  },
+  {
+    "id": "steam",
+    "label": "Steam",
+    "icon": "/icons/ic_steam.png",
+    "url": "E:\\Program Files (x86)\\Steam\\steam.exe"
+  },
+  {
+    "id": "vscode",
+    "label": "VS Code",
+    "icon": "/icons/ic_vsc.png",
+    "url": "vscode"
+  },
+  {
+    "id": "notepad",
+    "label": "Notepad",
+    "icon": "/icons/ic_notepad.png",
+    "url": "C:\\Program Files\\Notepad++\\notepad++.exe"
+  },
+  {
+    "id": "change-scene",
+    "label": "Change Scene",
+    "icon": "/icons/ic_scene.png",
+    "url": "obs/scene/Escena1"
+  },
+  {
+    "id": "toggle-recording",
+    "label": "Start recording",
+    "icon": "/icons/ic_recording.png",
+    "url": "obs/toggle-record",
+    "toggle": true
+  },
+  {
+    "id": "pause-record",
+    "label": "Pause Recording",
+    "icon": "/icons/ic_pause.png",
+    "url": "obs/pause-record",
+    "toggle": true
+  },
+  {
+    "id": "toggle-streaming",
+    "label": "Start streaming",
+    "icon": "/icons/ic_stream.png",
+    "url": "obs/toggle-stream"
+  },
+  {
+    "id": "toggle-source",
+    "label": "Start source",
+    "icon": "/icons/ic_source.png",
+    "url": "obs/toggle-source/Escena1/tesis",
+    "toggle": false,
+    "state": false
+  },
+  {
+    "id": "toggle-screenshot",
+    "label": "take-screenshot",
+    "icon": "/icons/ic_screenshot.png",
+    "url": "obs/screenshot"
+  },
+  {
+    "id": "toggle-overlay",
+    "label": "Start overlay",
+    "icon": "/icons/ic_overlay.png",
+    "url": "obs/toggle-overlay"
+  },
+  {
+    "id": "set-volume",
+    "label": "Set volume",
+    "icon": "/icons/ic_audio.png",
+    "url": "obs/volume"
+  },
+  {
+    "id": "volume-up",
+    "label": "Volume up",
+    "icon": "/icons/ic_high_volume.png",
+    "url": "obs/volume-up"
+  },
+  {
+    "id": "volume-down",
+    "label": "Volume down",
+    "icon": "/icons/ic_low_volume.png",
+    "url": "obs/volume-down"
+  },
+  {
+    "id": "toggle-mute",
+    "label": "Mute",
+    "icon": "/icons/ic_volume_mute.png",
+    "url": "obs/toggle-mute"
+  },
+  {
+    "id": "toggle-mute-desktop",
+    "label": "Mute",
+    "icon": "/icons/ic_desktop_mute.png",
+    "url": "obs/toggle-mute-desktop"
+  },
+  {
+    "id": "fade-transition",
+    "label": "Fade Transition",
+    "icon": "/icons/ic_transition.png",
+    "url": "obs/transition/Fade"
+  },
+  {
+    "id": "set-transition-duration",
+    "label": "Transition 700ms",
+    "icon": "/icons/ic_duration.png",
+    "url": "obs/transition-duration/700"
+  }
+]

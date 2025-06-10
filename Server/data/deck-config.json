@@ -1,0 +1,303 @@
+{
+  "filas": 2,
+  "columnas": 5,
+  "botones": [
+    {
+      "id": "toggle-recording",
+      "label": "Record",
+      "icon": "/icons/ic_recording.png",
+      "url": "obs/toggle-record",
+      "toggle": true,
+      "state": false,
+      "color": "red"
+    },
+    {
+      "id": "pause-record",
+      "label": "Pause",
+      "icon": "/icons/ic_pause.png",
+      "url": "obs/pause-record",
+      "toggle": true,
+      "state": false
+    },
+    {
+      "id": "toggle-streaming",
+      "label": "Stream",
+      "icon": "/icons/ic_stream.png",
+      "url": "obs/toggle-stream"
+    },
+    {
+      "id": "toggle-overlay",
+      "label": "Overlay",
+      "icon": "/icons/ic_overlay.png",
+      "url": "obs/toggle-overlay"
+    },
+    {
+      "id": "change-scene",
+      "label": "Scene 1",
+      "icon": "/icons/ic_scene.png",
+      "url": "obs/scene/Escena1"
+    },
+    {
+      "id": "change-scene",
+      "label": "Scene 2",
+      "icon": "/icons/ic_scene.png",
+      "url": "obs/scene/Escena2"
+    },
+    {
+      "id": "volume-up",
+      "label": "Volume up",
+      "icon": "/icons/ic_high_volume.png",
+      "url": "obs/volume-up"
+    },
+    {
+      "id": "volume-down",
+      "label": "Volume down",
+      "icon": "/icons/ic_low_volume.png",
+      "url": "obs/volume-down"
+    },
+    {
+      "id": "toggle-mute",
+      "label": "Mic",
+      "icon": "/icons/ic_volume_mute.png",
+      "url": "obs/toggle-mute"
+    },
+    {
+      "id": "toggle-mute-desktop",
+      "label": "Desktop",
+      "icon": "/icons/ic_volume_mute.png",
+      "url": "obs/toggle-mute-desktop"
+    },
+    {
+      "id": null,
+      "label": "",
+      "url": "",
+      "icon": "/icons/ic_placeholder.png",
+      "toggle": false,
+      "state": false,
+      "color": null
+    },
+    {
+      "id": null,
+      "label": "",
+      "url": "",
+      "icon": "/icons/ic_placeholder.png",
+      "toggle": false,
+      "state": false,
+      "color": null
+    },
+    {
+      "id": null,
+      "label": "",
+      "url": "",
+      "icon": "/icons/ic_placeholder.png",
+      "toggle": false,
+      "state": false,
+      "color": null
+    },
+    {
+      "id": null,
+      "label": "",
+      "url": "",
+      "icon": "/icons/ic_placeholder.png",
+      "toggle": false,
+      "state": false,
+      "color": null
+    },
+    {
+      "id": null,
+      "label": "",
+      "url": "",
+      "icon": "/icons/ic_placeholder.png",
+      "toggle": false,
+      "state": false,
+      "color": null
+    },
+    {
+      "id": "",
+      "label": "",
+      "icon": "",
+      "url": ""
+    },
+    {
+      "id": "",
+      "label": "",
+      "icon": "",
+      "url": ""
+    },
+    {
+      "id": "",
+      "label": "",
+      "icon": "",
+      "url": ""
+    },
+    {
+      "id": "",
+      "label": "",
+      "icon": "",
+      "url": ""
+    },
+    {
+      "id": "",
+      "label": "",
+      "icon": "",
+      "url": "",
+      "color": ""
+    },
+    {
+      "id": "",
+      "label": "",
+      "icon": "",
+      "url": "",
+      "color": ""
+    },
+    {
+      "id": "",
+      "label": "",
+      "icon": "",
+      "url": "",
+      "color": ""
+    },
+    {
+      "id": "",
+      "label": "",
+      "icon": "",
+      "url": "",
+      "color": ""
+    },
+    {
+      "id": "",
+      "label": "",
+      "icon": "",
+      "url": "",
+      "color": ""
+    },
+    {
+      "id": "",
+      "label": "",
+      "icon": "",
+      "url": "",
+      "color": ""
+    },
+    {
+      "id": "",
+      "label": "",
+      "icon": "",
+      "url": "",
+      "color": ""
+    },
+    {
+      "id": "",
+      "label": "",
+      "icon": "",
+      "url": "",
+      "color": ""
+    },
+    {
+      "id": "",
+      "label": "",
+      "icon": "",
+      "url": "",
+      "color": ""
+    },
+    {
+      "id": "",
+      "label": "",
+      "icon": "",
+      "url": "",
+      "color": ""
+    },
+    {
+      "id": "",
+      "label": "",
+      "icon": "",
+      "url": "",
+      "color": ""
+    },
+    {
+      "id": "",
+      "label": "",
+      "icon": "",
+      "url": "",
+      "color": ""
+    },
+    {
+      "id": "",
+      "label": "",
+      "icon": "",
+      "url": "",
+      "color": ""
+    },
+    {
+      "id": null,
+      "label": "",
+      "url": "",
+      "icon": "/icons/ic_placeholder.png",
+      "toggle": false,
+      "state": false,
+      "color": null
+    },
+    {
+      "id": null,
+      "label": "",
+      "url": "",
+      "icon": "/icons/ic_placeholder.png",
+      "toggle": false,
+      "state": false,
+      "color": null
+    },
+    {
+      "id": null,
+      "label": "",
+      "url": "",
+      "icon": "/icons/ic_placeholder.png",
+      "toggle": false,
+      "state": false,
+      "color": null
+    },
+    {
+      "id": null,
+      "label": "",
+      "url": "",
+      "icon": "/icons/ic_placeholder.png",
+      "toggle": false,
+      "state": false,
+      "color": null
+    },
+    {
+      "id": null,
+      "label": "",
+      "url": "",
+      "icon": "/icons/ic_placeholder.png",
+      "toggle": false,
+      "state": false,
+      "color": null
+    },
+    {
+      "id": null,
+      "label": "",
+      "url": "",
+      "icon": "/icons/ic_placeholder.png",
+      "toggle": false,
+      "state": false,
+      "color": null
+    },
+    {
+      "id": null,
+      "label": "",
+      "url": "",
+      "icon": "/icons/ic_placeholder.png",
+      "toggle": false,
+      "state": false,
+      "color": null
+    },
+    {
+      "id": null,
+      "label": "",
+      "url": "",
+      "icon": "/icons/ic_placeholder.png",
+      "toggle": false,
+      "state": false,
+      "color": null
+    }
+  ]
+}

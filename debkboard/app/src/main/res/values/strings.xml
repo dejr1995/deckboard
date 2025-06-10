@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">debkboard</string>
+    <string name="title_activity_connection_screen">ConnectionScreen</string>
+</resources>
